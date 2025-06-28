@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# apple
+# secret files
+.env
 .DS_Store
