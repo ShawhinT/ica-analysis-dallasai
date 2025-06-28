@@ -1,0 +1,17 @@
+[project]
+name = "abb-icp-dallas-ai"
+version = "0.1.0"
+description = "Example code for Dallas AI Summer School 2025 guest lecture."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "jupyterlab>=4.4.3",
+    "matplotlib>=3.10.3",
+    "openai>=1.93.0",
+    "pandas>=2.3.0",
+    "plotly>=6.2.0",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.0",
+]
