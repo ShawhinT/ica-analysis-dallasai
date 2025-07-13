@@ -3,7 +3,9 @@
 Example code for Dallas AI Summer School 2025 guest lecture. Here I perform ideal customer avatar analysis on (real) unstructured data using text embeddings.
 
 Resources
+- [Recording](https://youtu.be/bNmC_N4X1lk?si=WowkbFqGNgvuUXrX)
 - [Slides](https://drive.google.com/file/d/1E2DdSh6Gc_l59rV6Lexvc_P4_sDrlV93/view?usp=sharing)
+
 
 ## 🚀 QuickStart
 
